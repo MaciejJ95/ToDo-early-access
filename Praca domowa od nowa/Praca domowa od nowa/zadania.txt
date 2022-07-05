@@ -1,0 +1,3 @@
+Śmieci;Wynieś śmieci do śmietnika;2;false
+Zakupy;Kup mleko;1;false
+Naczynia;Umyj naczynia;3;true
